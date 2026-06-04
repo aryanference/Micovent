@@ -1,0 +1,6 @@
+{
+  "name": "Micovent",
+  "description": "AI-powered macroeconomic forecasting and prediction markets platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
